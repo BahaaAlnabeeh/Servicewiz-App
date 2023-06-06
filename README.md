@@ -1,10 +1,16 @@
 # Servicewiz-App
 
-Is a housework app. It helps you speed up your workflow with a new and unique kit for your cleaning service.
+The Servicewiz application is an application that provides many services, including medical, engineering, educational, technological, software, electronic, and household chores, and each service has several sub-services. It was programmed using Flutter technology with APIs to make the application available on both the Android and IOS systems.
+  
+It has many features, including:  
+* Helps you speed up your workflow with a new and unique set of services.  
+* The ability to communicate directly with the owner of the service you want.  
+* The ability to search for the service you want or for service owners such as doctors, engineers, and others.  
+* View the service owner's details, description, photo, location, and phone number.  
+* The ability to add a service to your favorites for faster reference later.  
+* For more details, download the application on your phone, and watch it fully. Do not hesitate to contact me at Email: alnbyhbha@gmail.com
 
 Download apk for the App: https://drive.google.com/drive/folders/16NNo3hTgU4MzAlrvEsg1bSTToCU0-R_O?usp=sharing
-
-For More Details, Do not hesitate to communicate with me at Email: alnbyhbha@gmail.com
 
 App Screens:
 
