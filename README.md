@@ -1,6 +1,6 @@
 # Servicewiz-App
 
-The Servicewiz application is an application that provides many services, including medical, engineering, educational, technological, software, electronic, and household chores, and each service has several sub-services. It was programmed using Flutter technology with APIs to make the application available on both the Android and IOS systems.
+The Servicewiz application is an application that provides many services, including medical, engineering, educational, technological, software, electronic, and household chores, and each service has several sub-services. It was programmed using Flutter framework with APIs to make the application available on both the Android and IOS.
   
 It has many features, including:  
 * Helps you speed up your workflow with a new and unique set of services.  
