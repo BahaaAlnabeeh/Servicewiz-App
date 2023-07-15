@@ -8,7 +8,7 @@ It has many features, including:
 * The ability to search for the service you want or for service owners such as doctors, engineers, and others.  
 * View the service owner's details, description, photo, location, and phone number.  
 * The ability to add a service to your favorites for faster reference later.  
-* For more details, download the application on your phone, and watch it fully. Do not hesitate to contact me at Email: alnbyhbha@gmail.com
+* For more details, download the application on your phone, and watch it fully. Do not hesitate to contact me 
 
 Download apk for the App: https://drive.google.com/drive/folders/16NNo3hTgU4MzAlrvEsg1bSTToCU0-R_O?usp=sharing
 
